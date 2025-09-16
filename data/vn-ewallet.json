@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-09-15T15:45:00+07:00",
+  "description": "A list of popular e-wallets operating in Vietnam with their official codes and names.",
+  "ewallets": [
+    {
+      "code": "MOMO",
+      "name": "Momo",
+      "fullName": {
+        "en": "Momo eWallet",
+        "vi": "Ví điện tử Momo"
+      }
+    },
+    {
+      "code": "ZALOPAY",
+      "name": "ZaloPay",
+      "fullName": {
+        "en": "ZaloPay eWallet",
+        "vi": "Ví điện tử ZaloPay"
+      }
+    },
+    {
+      "code": "SPP",
+      "name": "ShopeePay",
+      "fullName": {
+        "en": "ShopeePay eWallet",
+        "vi": "Ví điện tử ShopeePay"
+      }
+    },
+    {
+      "code": "VNP",
+      "name": "VNPAY",
+      "fullName": {
+        "en": "VNPAY eWallet",
+        "vi": "Ví điện tử VNPAY"
+      }
+    },
+    {
+      "code": "VTP",
+      "name": "Viettel Money",
+      "fullName": {
+        "en": "Viettel Money Digital Financial Ecosystem",
+        "vi": "Hệ sinh thái tài chính số Viettel Money"
+      }
+    }
+  ]
+}

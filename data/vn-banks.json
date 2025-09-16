@@ -1,0 +1,538 @@
+{
+  "version": "1.1.0",
+  "lastUpdated": "2025-09-16T09:00:00+07:00",
+  "description": "A comprehensive list of commercial banks in Vietnam, verified with VietQR data.",
+  "banks": [
+    {
+      "code": "ABB",
+      "name": "ABBANK",
+      "bin": "970425",
+      "fullName": {
+        "en": "An Binh Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP An Bình"
+      }
+    },
+    {
+      "code": "ACB",
+      "name": "ACB",
+      "bin": "970416",
+      "fullName": {
+        "en": "Asia Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Á Châu"
+      }
+    },
+    {
+      "code": "VBA",
+      "name": "Agribank",
+      "bin": "970405",
+      "fullName": {
+        "en": "Vietnam Bank for Agriculture and Rural Development",
+        "vi": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam"
+      }
+    },
+    {
+      "code": "BAB",
+      "name": "BacABank",
+      "bin": "970409",
+      "fullName": {
+        "en": "North Asia Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Bắc Á"
+      }
+    },
+    {
+      "code": "BVB",
+      "name": "BaoVietBank",
+      "bin": "970438",
+      "fullName": {
+        "en": "BaoViet Joint Stock Commercial Bank",
+        "vi": "Ngân hàng TMCP Bảo Việt"
+      }
+    },
+    {
+      "code": "BIDV",
+      "name": "BIDV",
+      "bin": "970418",
+      "fullName": {
+        "en": "Bank for Investment and Development of Vietnam",
+        "vi": "Ngân hàng Đầu tư và Phát triển Việt Nam"
+      }
+    },
+    {
+      "code": "CAKE",
+      "name": "CAKE",
+      "bin": "546034",
+      "fullName": {
+        "en": "CAKE by VPBank - Digital Bank",
+        "vi": "TMCP Việt Nam Thịnh Vượng - Ngân hàng số CAKE by VPBank"
+      }
+    },
+    {
+      "code": "CBB",
+      "name": "CBBank",
+      "bin": "970444",
+      "fullName": {
+        "en": "Construction Bank",
+        "vi": "Ngân hàng Thương mại TNHH MTV Xây dựng Việt Nam"
+      }
+    },
+    {
+      "code": "CIMB",
+      "name": "CIMB",
+      "bin": "422589",
+      "fullName": {
+        "en": "CIMB Bank Vietnam Limited",
+        "vi": "Ngân hàng TNHH MTV CIMB Việt Nam"
+      }
+    },
+    {
+      "code": "CITIBANK",
+      "name": "Citibank",
+      "bin": "533948",
+      "fullName": {
+        "en": "Citibank, N.A. - Hanoi Branch",
+        "vi": "Ngân hàng Citibank, N.A. - Chi nhánh Hà Nội"
+      }
+    },
+    {
+      "code": "COOPBANK",
+      "name": "COOPBANK",
+      "bin": "970446",
+      "fullName": {
+        "en": "Co-operative Bank of Vietnam",
+        "vi": "Ngân hàng Hợp tác xã Việt Nam"
+      }
+    },
+    {
+      "code": "DBS",
+      "name": "DBSBank",
+      "bin": "796500",
+      "fullName": {
+        "en": "DBS Bank Ltd - Ho Chi Minh City Branch",
+        "vi": "DBS Bank Ltd - Chi nhánh Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "code": "EIB",
+      "name": "Eximbank",
+      "bin": "970431",
+      "fullName": {
+        "en": "Vietnam Export Import Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Xuất Nhập khẩu Việt Nam"
+      }
+    },
+    {
+      "code": "GPB",
+      "name": "GPBank",
+      "bin": "970408",
+      "fullName": {
+        "en": "Global Petro Commercial Joint Stock Bank",
+        "vi": "Ngân hàng Thương mại TNHH MTV Dầu Khí Toàn Cầu"
+      }
+    },
+    {
+      "code": "HDB",
+      "name": "HDBank",
+      "bin": "970437",
+      "fullName": {
+        "en": "Ho Chi Minh City Development Joint Stock Commercial Bank",
+        "vi": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "code": "HLBVN",
+      "name": "HongLeong",
+      "bin": "970442",
+      "fullName": {
+        "en": "Hong Leong Bank Vietnam Limited",
+        "vi": "Ngân hàng TNHH MTV Hong Leong Việt Nam"
+      }
+    },
+    {
+      "code": "HSBC",
+      "name": "HSBC",
+      "bin": "458761",
+      "fullName": {
+        "en": "HSBC Bank (Vietnam) Ltd.",
+        "vi": "Ngân hàng TNHH MTV HSBC (Việt Nam)"
+      }
+    },
+    {
+      "code": "IBKHCM",
+      "name": "IBKHCM",
+      "bin": "970456",
+      "fullName": {
+        "en": "Industrial Bank of Korea - Ho Chi Minh City Branch",
+        "vi": "Ngân hàng Công nghiệp Hàn Quốc - Chi nhánh TP. Hồ Chí Minh"
+      }
+    },
+    {
+      "code": "IBKHN",
+      "name": "IBKHN",
+      "bin": "970455",
+      "fullName": {
+        "en": "Industrial Bank of Korea - Hanoi Branch",
+        "vi": "Ngân hàng Công nghiệp Hàn Quốc - Chi nhánh Hà Nội"
+      }
+    },
+    {
+      "code": "IVB",
+      "name": "IndovinaBank",
+      "bin": "970434",
+      "fullName": {
+        "en": "Indovina Bank Ltd.",
+        "vi": "Ngân hàng TNHH Indovina"
+      }
+    },
+    {
+      "code": "KBank",
+      "name": "KBank",
+      "bin": "668888",
+      "fullName": {
+        "en": "Kasikornbank Public Company Limited",
+        "vi": "Ngân hàng Đại chúng TNHH Kasikornbank"
+      }
+    },
+    {
+      "code": "KEBHANAHCM",
+      "name": "KEBHanaHCM",
+      "bin": "970466",
+      "fullName": {
+        "en": "KEB Hana Bank - Ho Chi Minh City Branch",
+        "vi": "Ngân hàng KEB Hana – Chi nhánh Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "code": "KEBHANAHN",
+      "name": "KEBHANAHN",
+      "bin": "970467",
+      "fullName": {
+        "en": "KEB Hana Bank - Hanoi Branch",
+        "vi": "Ngân hàng KEB Hana – Chi nhánh Hà Nội"
+      }
+    },
+    {
+      "code": "KLB",
+      "name": "KienLongBank",
+      "bin": "970452",
+      "fullName": {
+        "en": "Kien Long Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Kiên Long"
+      }
+    },
+    {
+      "code": "KBHCM",
+      "name": "KookminHCM",
+      "bin": "970463",
+      "fullName": {
+        "en": "Kookmin Bank - Ho Chi Minh City Branch",
+        "vi": "Ngân hàng Kookmin - Chi nhánh Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "code": "KBHN",
+      "name": "KookminHN",
+      "bin": "970462",
+      "fullName": {
+        "en": "Kookmin Bank - Hanoi Branch",
+        "vi": "Ngân hàng Kookmin - Chi nhánh Hà Nội"
+      }
+    },
+    {
+      "code": "LPB",
+      "name": "LPBank",
+      "bin": "970449",
+      "fullName": {
+        "en": "Loc Phat Vietnam Joint Stock Commercial Bank",
+        "vi": "Ngân hàng TMCP Lộc Phát Việt Nam"
+      }
+    },
+    {
+      "code": "MB",
+      "name": "MBBank",
+      "bin": "970422",
+      "fullName": {
+        "en": "Military Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Quân đội"
+      }
+    },
+    {
+      "code": "MSB",
+      "name": "MSB",
+      "bin": "970426",
+      "fullName": {
+        "en": "Vietnam Maritime Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Hàng Hải Việt Nam"
+      }
+    },
+    {
+      "code": "MBV",
+      "name": "MBV",
+      "bin": "970414",
+      "fullName": {
+        "en": "Modern Vietnam Commercial One Member Bank Ltd.",
+        "vi": "Ngân hàng TNHH MTV Việt Nam Hiện Đại"
+      }
+    },
+    {
+      "code": "NAB",
+      "name": "NamABank",
+      "bin": "970428",
+      "fullName": {
+        "en": "Nam A Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Nam Á"
+      }
+    },
+    {
+      "code": "NCB",
+      "name": "NCB",
+      "bin": "970419",
+      "fullName": {
+        "en": "National Citizen Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Quốc Dân"
+      }
+    },
+    {
+      "code": "NHB HN",
+      "name": "Nonghyup",
+      "bin": "801011",
+      "fullName": {
+        "en": "Nonghyup Bank - Hanoi Branch",
+        "vi": "Ngân hàng Nonghyup - Chi nhánh Hà Nội"
+      }
+    },
+    {
+      "code": "OCB",
+      "name": "OCB",
+      "bin": "970448",
+      "fullName": {
+        "en": "Orient Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Phương Đông"
+      }
+    },
+    {
+      "code": "PGB",
+      "name": "PGBank",
+      "bin": "970430",
+      "fullName": {
+        "en": "Prosperity and Growth Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Thịnh vượng và Phát triển"
+      }
+    },
+    {
+      "code": "PBVN",
+      "name": "PublicBank",
+      "bin": "970439",
+      "fullName": {
+        "en": "Public Bank Vietnam Limited",
+        "vi": "Ngân hàng TNHH MTV Public Việt Nam"
+      }
+    },
+    {
+      "code": "PVCB",
+      "name": "PVcomBank",
+      "bin": "970412",
+      "fullName": {
+        "en": "Vietnam Public Joint stock Commercial Bank",
+        "vi": "Ngân hàng TMCP Đại Chúng Việt Nam"
+      }
+    },
+    {
+      "code": "STB",
+      "name": "Sacombank",
+      "bin": "970403",
+      "fullName": {
+        "en": "Saigon Thuong Tin Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Sài Gòn Thương Tín"
+      }
+    },
+    {
+      "code": "SGICB",
+      "name": "SaigonBank",
+      "bin": "970400",
+      "fullName": {
+        "en": "Saigon Bank for Industry and Trade",
+        "vi": "Ngân hàng TMCP Sài Gòn Công Thương"
+      }
+    },
+    {
+      "code": "SCB",
+      "name": "SCB",
+      "bin": "970429",
+      "fullName": {
+        "en": "Saigon Commercial Bank",
+        "vi": "Ngân hàng TMCP Sài Gòn"
+      }
+    },
+    {
+      "code": "SCVN",
+      "name": "StandardChartered",
+      "bin": "970410",
+      "fullName": {
+        "en": "Standard Chartered Bank (Vietnam) Limited",
+        "vi": "Ngân hàng TNHH MTV Standard Chartered Bank Việt Nam"
+      }
+    },
+    {
+      "code": "SEAB",
+      "name": "SeABank",
+      "bin": "970440",
+      "fullName": {
+        "en": "Southeast Asia Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Đông Nam Á"
+      }
+    },
+    {
+      "code": "SHB",
+      "name": "SHB",
+      "bin": "970443",
+      "fullName": {
+        "en": "Saigon - Hanoi Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Sài Gòn - Hà Nội"
+      }
+    },
+    {
+      "code": "SHBVN",
+      "name": "ShinhanBank",
+      "bin": "970424",
+      "fullName": {
+        "en": "Shinhan Bank Vietnam Limited",
+        "vi": "Ngân hàng TNHH MTV Shinhan Việt Nam"
+      }
+    },
+    {
+      "code": "TCB",
+      "name": "Techcombank",
+      "bin": "970407",
+      "fullName": {
+        "en": "Vietnam Technological and Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Kỹ thương Việt Nam"
+      }
+    },
+    {
+      "code": "TIMO",
+      "name": "Timo",
+      "bin": "963388",
+      "fullName": {
+        "en": "Timo Digital Bank by Ban Viet Bank",
+        "vi": "Ngân hàng số Timo by Ban Viet Bank"
+      }
+    },
+    {
+      "code": "TPB",
+      "name": "TPBank",
+      "bin": "970423",
+      "fullName": {
+        "en": "Tien Phong Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Tiên Phong"
+      }
+    },
+    {
+      "code": "Ubank",
+      "name": "Ubank",
+      "bin": "546035",
+      "fullName": {
+        "en": "Ubank by VPBank - Digital Bank",
+        "vi": "TMCP Việt Nam Thịnh Vượng - Ngân hàng số Ubank by VPBank"
+      }
+    },
+    {
+      "code": "UOB",
+      "name": "UnitedOverseas",
+      "bin": "970458",
+      "fullName": {
+        "en": "United Overseas Bank (Vietnam) Ltd.",
+        "vi": "Ngân hàng United Overseas - Chi nhánh TP. Hồ Chí Minh"
+      }
+    },
+    {
+      "code": "VAB",
+      "name": "VietABank",
+      "bin": "970427",
+      "fullName": {
+        "en": "Viet A Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Việt Á"
+      }
+    },
+    {
+      "code": "VCCB",
+      "name": "VietCapitalBank",
+      "bin": "970454",
+      "fullName": {
+        "en": "Ban Viet Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Bản Việt"
+      }
+    },
+    {
+      "code": "VIETBANK",
+      "name": "VietBank",
+      "bin": "970433",
+      "fullName": {
+        "en": "Vietnam Thuong Tin Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Việt Nam Thương Tín"
+      }
+    },
+    {
+      "code": "VCB",
+      "name": "Vietcombank",
+      "bin": "970436",
+      "fullName": {
+        "en": "Joint Stock Commercial Bank for Foreign Trade of Vietnam",
+        "vi": "Ngân hàng TMCP Ngoại Thương Việt Nam"
+      }
+    },
+    {
+      "code": "ICB",
+      "name": "VietinBank",
+      "bin": "970415",
+      "fullName": {
+        "en": "Vietnam Joint Stock Commercial Bank for Industry and Trade",
+        "vi": "Ngân hàng TMCP Công thương Việt Nam"
+      }
+    },
+    {
+      "code": "VIB",
+      "name": "VIB",
+      "bin": "970441",
+      "fullName": {
+        "en": "Vietnam International Commercial Joint Stock Bank",
+        "vi": "Ngân hàng TMCP Quốc tế Việt Nam"
+      }
+    },
+    {
+      "code": "Vikki",
+      "name": "Vikki",
+      "bin": "970406",
+      "fullName": {
+        "en": "Vikki Digital Bank",
+        "vi": "Ngân hàng TNHH MTV Số Vikki"
+      }
+    },
+    {
+      "code": "VPB",
+      "name": "VPBank",
+      "bin": "970432",
+      "fullName": {
+        "en": "Vietnam Prosperity Joint Stock Commercial Bank",
+        "vi": "Ngân hàng TMCP Việt Nam Thịnh Vượng"
+      }
+    },
+    {
+      "code": "VRB",
+      "name": "VRB",
+      "bin": "970421",
+      "fullName": {
+        "en": "Vietnam - Russia Joint Venture Bank",
+        "vi": "Ngân hàng Liên doanh Việt - Nga"
+      }
+    },
+    {
+      "code": "WVN",
+      "name": "Woori",
+      "bin": "970457",
+      "fullName": {
+        "en": "Woori Bank Vietnam Limited",
+        "vi": "Ngân hàng TNHH MTV Woori Việt Nam"
+      }
+    }
+  ]
+}
